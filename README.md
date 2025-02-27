@@ -25,11 +25,6 @@ This project provides an **interactive Excel dashboard** to analyze **bike sales
 - **Microsoft Excel**: Data analysis, Pivot Tables, and Dashboard creation  
 - **Data Visualization**: Bar Charts, Pie Charts, Line Graphs, and Filters (Slicers)  
 
-## 📂 Dataset & Files  
-- `bike_buyers.xlsx` - Raw dataset used for analysis  
-- `BIKE_SALES_DASHBOARD.xlsx` - Final interactive dashboard  
-- `README.md` - Project documentation  
-
 ## 🚀 How to Use  
 1. Open the **Excel dashboard file** in Microsoft Excel (2016 or later for best compatibility).  
 2. Use **slicers** (filters) to interact with the data and explore different customer segments.  
